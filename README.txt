@@ -1,0 +1,1 @@
+Reserved for optional static icon assets. No external icon dependency is used.
